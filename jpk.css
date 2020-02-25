@@ -1,0 +1,38 @@
+/*selector {property: value;}*/
+body{
+	background-image: url(rose.jpg);
+	background-size: cover;
+	
+}
+
+p{
+	color: blue;
+	text-align: center;
+	border: 7px dashed green;
+	cursor: pointer;
+
+}
+p{
+	color: black;
+}
+
+li{
+	list-style: none;
+	
+
+}
+.webtext:last-child{
+	border: 7px dashed blue;
+	
+
+}
+.active{
+	color: red;
+}
+.boxmodel{
+	border: 7px dashed black;
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 5px,20px;
+}
+
